@@ -9,4 +9,4 @@
 * `methy.txt`  DNA 甲基化数据
 * `methy_T.txt`  DNA 甲基化数据转置
 * `expr.txt` 转录组基因表达数据
-* `expr.txt` 转录组基因表达数据转置
+* `expr_T.txt` 转录组基因表达数据转置
